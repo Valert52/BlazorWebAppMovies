@@ -15,7 +15,7 @@ namespace BlazorWebAppMovies.Migrations
                 table: "Movie",
                 type: "nvarchar(max)",
                 nullable: false,
-                defaultValue: "");
+                defaultValue: "R");
         }
 
         /// <inheritdoc />
